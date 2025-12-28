@@ -48,7 +48,7 @@ Databases
 Softwares
 
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-E34F26?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-E34F26?style=flat-square&logo=vsc&logoColor=white)
+![Visual Studio](https://custom-icon-badges.demolab.com/badge/-Visual%20Studio-E34F26?style=flat-square&logo=vsc&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/-Notepad+-E34F26?style=flat-square&logo=notepadplusplus&logoColor=white)
 
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-E34F26?style=flat-square&logo=adobexd&logoColor=white)
