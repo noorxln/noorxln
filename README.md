@@ -38,7 +38,7 @@ Backend Development
 
 Databases
 
-![MySQL](https://img.shields.io/badge/-My%20SQL-E34F26?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-mySQL-E34F26?style=flat-square&logo=mysql&logoColor=white)
 
 Softwares
 
