@@ -30,7 +30,7 @@ Frontend Development
 
 Backend Development
 
-![node.js](https://img.shields.io/badge/-Node.js-E34F26?style=flat-square&logo=nodejs&logoColor=white)
+![node.js](https://img.shields.io/badge/-Node.js-E34F26?style=flat-square&logo=node.js&logoColor=white)
 
 Databases
 
