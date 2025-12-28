@@ -26,7 +26,7 @@ Frontend Development
 
 ![HTML5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS%203-E34F26?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-E34F26?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E34F26?style=flat-square&logo=javascript&logoColor=white)
 [![Tailwind](https://img.shields.io/badge/Tailwind-E34F26?style=flat-square&logo=tailwind-css&logoColor=white)](#)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white)
 
