@@ -33,6 +33,11 @@ Frontend Development
 Backend Development
 
 ![PHP](https://img.shields.io/badge/-PHP-E34F26?style=flat-square&logo=php&logoColor=white)
+
+Framework
+
+![React](https://img.shields.io/badge/-React-E34F26?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-E34F26?style=flat-square&logo=vite&logoColor=white)
 ![node.js](https://img.shields.io/badge/-Node.js-E34F26?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-E34F26?style=flat-square&logo=express&logoColor=white)
 
