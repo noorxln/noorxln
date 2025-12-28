@@ -28,6 +28,10 @@ Frontend Development
 ![CSS3](https://img.shields.io/badge/-CSS%203-E34F26?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-E34F26?style=flat-square&logo=bootstrap&logoColor=white)
 
+Backend Development
+
+![node.js](https://img.shields.io/badge/-HTML%205-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 Databases
 
 ![MySQL](https://img.shields.io/badge/-My%20SQL-E34F26?style=flat-square&logo=mysql&logoColor=white)
